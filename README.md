@@ -1,6 +1,6 @@
 # Hi, I'm Sam
 
-I'm a Computer Science student at the University of Edinburgh, interested in systems programming, security and graphics.
+I'm a Computer Science student interested in systems programming, security and graphics.
 
 ## Open-source contributions
 
